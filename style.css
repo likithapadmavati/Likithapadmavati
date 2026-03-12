@@ -1,0 +1,21 @@
+body{
+font-family: "Times New Roman";
+text-align:center;
+background:#fafafa;
+}
+
+header{
+margin-top:60px;
+}
+
+nav a{
+margin:20px;
+text-decoration:none;
+color:black;
+font-size:18px;
+}
+
+img{
+margin:15px;
+border-radius:10px;
+}
